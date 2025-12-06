@@ -1,7 +1,4 @@
 # Ex.No: 05  IMPLEMENTATION OF TIME SERIES ANALYSIS AND DECOMPOSITION
-### Date: 
-
-
 ### AIM:
 To Illustrates how to perform time series analysis and decomposition on the monthly average temperature of a city/country and for airline passengers.
 
